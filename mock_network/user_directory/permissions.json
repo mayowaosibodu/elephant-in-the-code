@@ -1,0 +1,5 @@
+{
+  "admin": ["read", "write", "delete", "configure"],
+  "editor": ["read", "write"],
+  "viewer": ["read"]
+}

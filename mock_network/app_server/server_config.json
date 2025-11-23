@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mode": "development",
+  "enableMetrics": true,
+  "authStrategy": "token"
+}

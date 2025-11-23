@@ -1,0 +1,4 @@
+# Mock tokens (non-sensitive, for demonstration only)
+
+TEMP_TOKEN=ABC123_FAKE
+SESSION_ID=XYZ789_FAKE

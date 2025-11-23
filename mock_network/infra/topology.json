@@ -1,0 +1,7 @@
+{
+  "services": ["app_server", "auth_proxy", "metrics"],
+  "connections": {
+    "app_server": ["auth_proxy"],
+    "auth_proxy": ["metrics"]
+  }
+}

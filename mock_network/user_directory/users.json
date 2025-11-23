@@ -1,0 +1,5 @@
+[
+  {"username": "alice", "role": "admin"},
+  {"username": "bob", "role": "editor"},
+  {"username": "carol", "role": "viewer"}
+]

@@ -1,0 +1,4 @@
+Deployment Notes (Demo Only)
+
+- Ensure service dependencies are configured.
+- Update topology if new microservices are added.
